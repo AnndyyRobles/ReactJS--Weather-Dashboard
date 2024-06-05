@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ReactJS--Weather-Dashboard
+The Weather Dashboard is an interactive web application built with React that allows users to get real-time weather information for any city. Users can enter a city name to fetch and display current temperature, humidity, wind speed, and weather description.
+>>>>>>> e6e2a655aa6d1f622f230e7a70896044ef1c7995
